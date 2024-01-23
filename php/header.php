@@ -2,7 +2,6 @@
     <div class="page-wrapper">
 
         <!-- Preloader -->
-        <div class="preloader"></div>
 
         <!-- main header -->
         <header class="main-header header-white">
@@ -12,7 +11,7 @@
 
                     <div class="header-inner rel d-flex align-items-center">
                         <div class="logo-outer">
-                            <div class="logo"><a href="index.html"><img src="assets/images/logos/crowne-plaza-logo-beyaz.png" alt="Crowne Plaza Ortaköy Bosphorus" title="Crowne Plaza Ortaköy Bosphorus Logo"></a></div>
+                            <div class="logo"><a href="index.php"><img src="assets/images/logos/crowne-plaza-logo-beyaz.png" alt="Crowne Plaza Ortaköy Bosphorus" title="Crowne Plaza Ortaköy Bosphorus Logo"></a></div>
                         </div>
 
                         <div class="nav-outer clearfix me-auto">
@@ -20,7 +19,7 @@
                             <nav class="main-menu navbar-expand-lg">
                                 <div class="navbar-header">
                                     <div class="mobile-logo my-15">
-                                        <a href="index.html">
+                                        <a href="index.php">
                                             <img src="assets/images/logos/logo.png" alt="Logo" title="Logo">
                                         </a>
                                     </div>
@@ -35,7 +34,7 @@
 
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
-                                    <li><a href="contact.html">Anasayfa</a></li>
+                                        <li><a href="contact.html">Anasayfa</a></li>
 
                                         <li class="dropdown"><a href="#">Odalar & Suitler</a>
                                             <ul>
@@ -45,26 +44,37 @@
                                                 <li><a href="room-details.html">Room Details</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="#">Bar & Restaurant</a>
+                                        <li><a href="dugunler-organizasyonlar.php">Düğünler ve Organizsayonlar</a></li>
+                                        <!-- <li class="dropdown"><a href="#">Bar & Restaurant</a>
                                             <ul>
                                                 <li><a href="about.html">About us</a></li>
                                                 <li><a href="services.html">Services</a></li>
                                                 <li><a href="gallery.html">Gallery</a></li>
                                                 <li><a href="faqs.html">faqs & helf</a></li>
                                             </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Toplantı & Davetler</a>
+                                        </li> -->
+                                        <li><a href="#">Toplantılar</a>
+                                        <li class="dropdown"><a href="#">Sosyal İmkanlar</a>
+                                            <ul>
+                                                <li> <a href="">Restaurantlar</a></li>
+                                                <li> <a href="">Spa & Fitness</a></li>
+                                                <li> <a href="">Candy World</a></li>
+
+                                            </ul>
+                                        <!-- <li class="dropdown"><a href="">Başlık</a>
                                             <ul>
                                                 <li><a href="shop.html">shop Grid</a></li>
                                                 <li><a href="product-details.html">Product details</a></li>
                                             </ul>
+                                        </li> -->
+                                        
                                         </li>
-                                        <li class="dropdown"><a href="#">Haberler</a>
+                                        <!-- <li class="dropdown"><a href="#">Haberler</a>
                                             <ul>
                                                 <li><a href="blog.html">blog Grid</a></li>
                                                 <li><a href="blog-details.html">blog details</a></li>
                                             </ul>
-                                        </li>
+                                        </li> -->
                                         <li><a href="contact.html">İletişim</a></li>
                                     </ul>
                                 </div>
@@ -74,7 +84,9 @@
                         </div>
 
 
-
+                        <div class="logo-outer">
+                            <div class="logo"><a href="index.php"><img style="width: 100%;" src="assets/images/iha-logo.png" alt="Crowne Plaza Ortaköy Bosphorus" title="Crowne Plaza Ortaköy Bosphorus Logo"></a></div>
+                        </div>
                         <!-- Menu Button -->
                         <div class="menu-btns">
                             <a href="contact.html" class="theme-btn">Book Now <i class="far fa-angle-right"></i></a>

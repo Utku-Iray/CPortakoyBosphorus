@@ -1,13 +1,13 @@
 <!-- footer area start -->
-<footer class="main-footer bgc-black-with-lighting pt-100 rel z-1">
+<footer class="main-footer bgc-black-with-lighting pt-100  rel z-1">
             <div class="container">
                 <div class="row justify-content-xl-between justify-content-between">
                     <div class="col-xl-3 col-lg-5 col-sm-6">
                         <div class="footer-widget widget_about wow fadeInUp delay-0-2s">
                             <div class="footer-logo mb-25">
-                                <a href="index.html"><img src="assets/images/logos/logo.png" alt="Logo"></a>
+                                <a href="index.php"><img src="assets/images/logos/crowne-plaza-logo-beyaz.png" alt="Logo"></a>
                             </div>
-                            <p>Nam libero tempore cum soluta nobis eseligendi optio cumque nihile impedit quo minus maxime placeat facere</p>
+                           
                             <div class="social-style-one pt-10">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#"><i class="fab fa-twitter"></i></a>
@@ -41,22 +41,25 @@
                         </div>
                     </div>
                     <div class="col-xl-3 col-sm-6">
-                        <div class="footer-widget widget_newsletter wow fadeInUp delay-0-6s">
-                            <h4 class="footer-title">Newsletter</h4>
-                            <form action="#">
-                                <input type="email" placeholder="Enter Address" required>
-                                <button class="theme-btn">Subscribe <i class="far fa-angle-right"></i></button>
-                            </form>
+                        <div class="footer-widget widget_nav_menu wow fadeInUp delay-0-4s">
+                            <h4 class="footer-title">Features</h4>
+                            <ul class="list-style-one">
+                                <li><a href="room-details.html">Free Transportation</a></li>
+                                <li><a href="room-details.html">GYM & Fitness Care</a></li>
+                                <li><a href="room-details.html">SPA Treatment</a></li>
+                                <li><a href="room-details.html">Food & Drinks</a></li>
+                                <li><a href="room-details.html">Breakfast</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="footer-bottom bgd-dark mt-40 pt-20 pb-5 rpt-25">
+            <div class="footer-bottom bgd-dark mt-100 pt-20 pb-5 rpt-25">
                 <div class="container">
                    <div class="row">
                        <div class="col-lg-6">
                             <div class="copyright-text">
-                                <p>© 2023 <a href="index.html">Qomfort.</a> All Rights Reserved.</p>
+                                <p>© 2023 <a href="index.php">Qomfort.</a> All Rights Reserved.</p>
                             </div>
                        </div>
                        <div class="col-lg-6 text-lg-end">
@@ -77,8 +80,8 @@
                <span></span><span></span>
                <span></span><span></span>
             </div>
-            <div class="wave-shapes"></div>
-            <div class="wave-shapes-two"></div>
+            <!-- <div class="wave-shapes"></div>
+            <div class="wave-shapes-two"></div> -->
         </footer>
         <!-- footer area end -->
         

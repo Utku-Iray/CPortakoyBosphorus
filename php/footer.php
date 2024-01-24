@@ -23,9 +23,8 @@
                             <ul class="list-style-one">
                                 <li><a href="#">Anasayfa</a></li>
                                 <li><a href="#">Odalar & Suitler</a></li>
-                                <li><a href="#">Düğünler</a></li>
-                                <li><a href="#">ORganizasyonlar</a></li>
-                                <li><a href="#">Toplantılar</a></li>
+                                <li><a href="blog.php">Blog</a></li>                           
+                                <li><a href="contact.php">İletişim</a></li>
                             </ul>
                         </div>
                     </div>
@@ -42,12 +41,13 @@
                     </div>
                     <div class="col-xl-3 col-sm-6">
                         <div class="footer-widget widget_nav_menu wow fadeInUp delay-0-4s">
-                            <h4 class="footer-title">Otelimiz</h4>
+                            <h4 class="footer-title">Organizasyon</h4>
                             <ul class="list-style-one">
-                                <li><a href="#">İletişim</a></li>
-                                <li><a href="#">Gizlilik ve Kişisel Veriler</a></li>
-                                <li><a href="#">Yasal Uyarı</a></li>
-                                <li><a href="#">Sürdürülebilirlik</a></li>
+                                <li><a href="istanbul-ortakoy-dugun.php">Düğün</a></li>
+                                <li><a href="#">Nişan</a></li>
+                                <li><a href="#">Kına</a></li>
+                                <li><a href="#">Toplantı</a></li>
+                                <li><a href="#">Etkinlik</a></li>
                             </ul>
                         </div>
                     </div>

@@ -37,6 +37,16 @@
                                         <li><a href="contact.html">Anasayfa</a></li>
                                         <li><a href="#">Odalar & Suitler</a></li>
 
+                                        <li class="dropdown"><a href="#">Organizsayon</a>
+                                            <ul>
+                                                <li><a href="istanbul-ortakoy-dugun.php">Düğün</a></li>
+                                                <li><a href="#">Nişan</a></li>
+                                                <li><a href="#">Kına</a></li>
+                                                <li><a href="#">Toplantı</a></li>
+                                                <li><a href="#">Özel Etkinlik</a></li>
+                                            </ul>
+                                        </li>
+
                                         <!-- <li class="dropdown"><a href="#">Odalar & Suitler</a>
                                             <ul>
                                                 <li><a href="room-grid.html">Room Grid</a></li>
@@ -45,7 +55,6 @@
                                                 <li><a href="room-details.html">Room Details</a></li>
                                             </ul>
                                         </li> -->
-                                        <li><a href="wedding-events.php">Düğünler & Organizsayonlar</a></li>
                                         <!-- <li class="dropdown"><a href="#">Bar & Restaurant</a>
                                             <ul>
                                                 <li><a href="about.html">About us</a></li>
@@ -54,7 +63,6 @@
                                                 <li><a href="faqs.html">faqs & helf</a></li>
                                             </ul>
                                         </li> -->
-                                        <li><a href="#">Toplantılar</a>
                                         <li class="dropdown"><a href="#">Sosyal İmkanlar</a>
                                             <ul>
                                                 <li> <a href="#">Restaurantlar</a></li>
@@ -62,14 +70,16 @@
                                                 <li> <a href="#">Candy World</a></li>
 
                                             </ul>
-                                        <!-- <li class="dropdown"><a href="">Başlık</a>
+                                            <!-- <li class="dropdown"><a href="">Başlık</a>
                                             <ul>
                                                 <li><a href="shop.html">shop Grid</a></li>
                                                 <li><a href="product-details.html">Product details</a></li>
                                             </ul>
                                         </li> -->
-                                        
+
                                         </li>
+                                        <li><a href="blog.php">Blog</a>
+
                                         <!-- <li class="dropdown"><a href="#">Haberler</a>
                                             <ul>
                                                 <li><a href="blog.html">blog Grid</a></li>
@@ -90,7 +100,7 @@
                         </div>
                         <!-- Menu Button -->
                         <div class="menu-btns">
-                            <a href="https://www.ihg.com/crowneplaza/hotels/tr/tr/istanbul/istor/hoteldetail" class="theme-btn">Randevu <i class="far fa-angle-right"></i></a>
+                            <a href="https://www.ihg.com/crowneplaza/hotels/tr/tr/istanbul/istor/hoteldetail" class="theme-btn">Rezervasyon <i class="far fa-angle-right"></i></a>
 
 
                         </div>

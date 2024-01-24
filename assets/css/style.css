@@ -3649,7 +3649,7 @@ h6, .h6 {
     mix-blend-mode: multiply; }
 
 .banner-inner h1 {
-  font-size: 85px;
+  font-size: 80px;
   font-weight: 400;
   text-transform: capitalize; }
   @media only screen and (max-width: 1399px) {
@@ -4857,10 +4857,9 @@ h6, .h6 {
       color: white;
       font-weight: 500;
       padding: 4px 25px;
-      text-transform: uppercase;
       background: var(--primary-color); }
   .room-item .content {
-    padding: 40px 50px; }
+    padding: 25px 25px; }
     @media only screen and (max-width: 991px) {
       .room-item .content {
         padding-left: 33px;
@@ -7555,5 +7554,5 @@ border: solid 1px white;
         margin-bottom: 20px
       }
     .main-footer{
-      background-image: url("/assets/images/bogaz-black.jpg");
+      background-image: url("./assets/images/bogaz-black.jpg");
     }

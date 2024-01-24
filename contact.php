@@ -114,7 +114,7 @@
                             </div>
                             <div class="col-md-12">
                                 <div class="form-group">
-                                    <textarea name="message" id="message" class="form-control" rows="3" placeholder="MEsaj" required data-error="Please enter your Message"></textarea>
+                                    <textarea name="message" id="message" class="form-control" rows="3" placeholder="Mesaj" required data-error="Please enter your Message"></textarea>
                                     <div class="help-block with-errors"></div>
                                 </div>
                             </div>

@@ -6,7 +6,8 @@
 <section class="page-banner-area pt-140 rpy-80 pb-150 rel z-1 bgs-cover bgc-black text-center" style="background-image: url(assets/images/blog/istanbul-koprusu-1920.png)">
     <div class="container">
         <div class="banner-inner text-white">
-            <h1 class="page-title wow fadeInUp delay-0-2s">2024 Düğün Trendleri: Özel Anınızı Unutulmaz Kılın </h1>
+            <h1 class="page-title wow fadeInUp delay-0-2s">2024 Düğün Trendleri </h1>
+            <h3> Özel Anılarınızı Unutulmaz Kılın</h3>
 
         </div>
     </div>

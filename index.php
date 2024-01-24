@@ -11,9 +11,9 @@
                 <div class="row justify-content-end align-items-center">
                     <div class="col-xl-3">
                         <div class="slider-content">
-                            <span class="sub-title"><i class="fal fa-arrow-right"></i>Hoşgeldiniz</span>
-                            <h1>CROWNE PLAZA <span>ORTAKÖY BOSPHORUS</span></h1>
-                            <a href="#" class="theme-btn">Odalarımızı Keşfedin <i class="far fa-angle-right"></i></a>
+                            <span class="sub-title"><i class="fal fa-arrow-right"></i>Crowne Plaza</span>
+                            <h1>İstanbul<span> Ortaköy Bosphorus</span></h1>
+                            <a href="#" class="theme-btn">Keşfet <i class="far fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="col-xl-8">
@@ -29,8 +29,8 @@
                 <div class="row justify-content-end align-items-center">
                     <div class="col-xl-3">
                         <div class="slider-content">
-                            <span class="sub-title"><i class="fal fa-arrow-right"></i>Hoşgeldiniz</span>
-                            <h1>CROWNE PLAZA <span>ORTAKÖY BOSPHORUS</span></h1>
+                            <span class="sub-title"><i class="fal fa-arrow-right"></i>Crowne Plaza</span>
+                            <h1>İkonik <span>Boğaz Köprüsü Manzarası</span></h1>
                             <a href="#" class="theme-btn">Odalarımızı Keşfedin <i class="far fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -135,7 +135,7 @@
         <div class="row justify-content-between align-items-center pb-20">
             <div class="col-xl-5 col-lg-7">
                 <div class="section-title mb-40 wow fadeInLeft delay-0-2s">
-                    <h2>Favori Odalarımız</h2>
+                    <h2>Organizasyonlar</h2>
                 </div>
             </div>
             <div class="col-lg-4 text-lg-end">
@@ -146,21 +146,12 @@
             <div class="col-xl-4 col-md-6">
                 <div class="room-item wow fadeInUp delay-0-2s">
                     <div class="image">
-                        <img src="assets/images/oda3.png" alt="Room">
-                        <a class="category" href="#">King</a>
+                        <img src="assets/images/dugun-salonu.jpg" alt="Room">
+                        <a class="category" href="#">Düğün & Nişan & Kına</a>
                     </div>
                     <div class="content">
-                        <h4><a href="#s">Premium King Sofa Bed 5020 </a></h4>
-                        <ul class="blog-meta">
-                            <!-- <li>
-                                <i class="far fa-bed-alt"></i>
-                                <a href="#">Adults : 5</a>
-                            </li> -->
-                            <li>
-                                <i class="far fa-drafting-compass"></i>
-                                <a href="#">Alan : 27m2</a>
-                            </li>
-                        </ul>
+                        <h4><a href="#s">Ortaköy'de, muhteşem düğünler</a></h4>
+                      
                         <p>Lüks ve konforun mükemmel bir buluşma noktası olarak tasarlanan odalarımız, rahatlığı zirveye taşıyor.</p>
                         <!-- <div class="price">Price <span>$59</span>/per night</div> -->
                     </div>
@@ -170,21 +161,12 @@
             <div class="col-xl-4 col-md-6">
                 <div class="room-item wow fadeInUp delay-0-4s">
                     <div class="image">
-                        <img src="assets/images/oda1.png" alt="Room">
-                        <a class="category" href="#">Twin</a>
+                        <img src="assets/images/toplanti-anasayfa.jpg" alt="Room">
+                        <a class="category" href="#">Toplantı</a>
                     </div>
                     <div class="content">
-                        <h4><a href="#">Premier Twin 5018 </a></h4>
-                        <ul class="blog-meta">
-                            <!-- <li>
-                                <i class="far fa-bed-alt"></i>
-                                <a href="#">Adults : 5</a>
-                            </li> -->
-                            <li>
-                                <i class="far fa-drafting-compass"></i>
-                                <a href="#">Alan : 27m2</a>
-                            </li>
-                        </ul>
+                        <h4><a href="#">Kurumlara özel toplantı salonları</a></h4>
+                        
                         <p>Modern dekorasyonu ve şık atmosferiyle odalarımız, konuklarımıza unutulmaz bir konaklama vadediyor.</p>
                         <!-- <div class="price">Price <span>$53</span>/per night</div> -->
                     </div>
@@ -194,21 +176,12 @@
             <div class="col-xl-4 col-md-6">
                 <div class="room-item wow fadeInUp delay-0-6s">
                     <div class="image">
-                        <img src="assets/images/oda2.png" alt="Room">
-                        <a class="category" href="#">Standart</a>
+                        <img src="assets/images/ozel-etkinlik.jpg" alt="Room">
+                        <a class="category" href="#">Özel Etkinlik</a>
                     </div>
                     <div class="content">
-                        <h4><a href="#">Std King Bridge View 5011 </a></h4>
-                        <ul class="blog-meta">
-                            <!-- <li>
-                                <i class="far fa-bed-alt"></i>
-                                <a href="#">Adults : 5</a>
-                            </li> -->
-                            <li>
-                                <i class="far fa-drafting-compass"></i>
-                                <a href="#">Alan : 65m2</a>
-                            </li>
-                        </ul>
+                        <h4><a href="#">Boğaz eşliğinde etkinlikler</a></h4>
+                       
                         <p>Her ayrıntısı özenle düşünülmüş geniş odalarımız, zarif mobilyalar ve özel tasarımlarla donatılmıştır.</p>
                     </div>
                     <a class="theme-btn style-two" href="#">Daha Fazlası <i class="fal fa-angle-right"></i></a>
@@ -517,37 +490,46 @@
                 <div class="booking-search rmb-55 rel bg-white">
                     <div class="section-title">
                         <span class="sub-title mb-5">Crowne Plaza İstanbul Ortaköy Bosphorus</span>
-                        <h3>Randevu Sorgulayınız</h3>
+                        <h3>Yorumlarınız Bizim İçin Önemli!</h3>
                     </div>
-                    <form action="#" name="booking-form" method="post">
-                        <div class="form-group">
-                            <input type="text" id="check-in" name="check-in" class="form-control" value="" placeholder="Giriş" onfocus="(this.type='date')" required>
-                        </div>
-                        <div class="form-group">
-                            <input type="text" id="check-out" name="check-out" class="form-control" value="" placeholder="Çıkış" onfocus="(this.type='date')" required>
-                        </div>
-                        <div class="form-group clearfix">
-                            <select name="adults" id="adults">
-                                <option value="default" selected="">Kişi</option>
-                                <option value="01">01</option>
-                                <option value="02">02</option>
-                                <option value="03">03</option>
-                                <option value="04">04</option>
-                                <option value="05">05</option>
-                            </select>
-                        </div>
-                        <div class="form-group clearfix">
-                            <select name="children" id="children">
-                                <option value="default" selected="">Çocuk</option>
-                                <option value="01">01</option>
-                                <option value="02">02</option>
-                                <option value="03">03</option>
-                                <option value="04">04</option>
-                                <option value="05">05</option>
-                            </select>
-                        </div>
-                        <div class="form-group pt-30 mb-0">
-                            <button type="submit" class="theme-btn">Sorgula <i class="far fa-angle-right"></i></button>
+                    <form id="contactForm" class="contactForm" action="assets/php/form-process.php" name="contactForm" method="post">
+                        <div class="row gap-20 pt-15">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="text" id="name" name="name" class="form-control" value="" placeholder="Ad" required data-error="Please enter your name">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="text" id="phone_number" name="phone_number" class="form-control" value="" placeholder="Telefon" required data-error="Please enter your Phone">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="email" id="email" name="email" class="form-control" value="" placeholder="E-mail" required data-error="Please enter your Email">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="text" id="subject" name="subject" class="form-control" value="" placeholder="Konu" required data-error="Please enter your Subject">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <textarea name="message" id="message" class="form-control" rows="3" placeholder="Mesaj" required data-error="Please enter your Message"></textarea>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group pt-5 mb-0">
+                                    <button type="submit" class="theme-btn">Mesaj Gönder<i class="far fa-arrow-right"></i></button>
+                                    <div id="msgSubmit" class="hidden"></div>
+                                </div>
+                            </div>
                         </div>
                     </form>
                 </div>
@@ -565,8 +547,7 @@
                                 <div class="testi-author">
                                     <img src="assets/images/testimonials/testi-thumb1.jpg" alt="Testi Thumb">
                                     <div class="testi-des">
-                                        <h5>Diane C. Valentine</h5>
-                                        <span>CEO & Founder</span>
+                                        <h5>Serdar Tezgüler</h5>
                                     </div>
                                 </div>
                             </div>
@@ -575,41 +556,12 @@
                                 <div class="testi-author">
                                     <img src="assets/images/testimonials/testi-thumb2.jpg" alt="Testi Thumb">
                                     <div class="testi-des">
-                                        <h5>Michael A. Braun</h5>
-                                        <span>UI/UX Designer</span>
+                                        <h5>Utku İray</h5>
                                     </div>
                                 </div>
                             </div>
-                            <div class="testimonial-item">
-                                <p>Voluptatum deleniti atque corrupti quos dolores qua molestias excepturi sint occaecati At vero eos et accusamus et iusto odio dignissimos ducimus blanditiis praesentium cupiditate non provident similique sunt in culpa qui officia deserunte</p>
-                                <div class="testi-author">
-                                    <img src="assets/images/testimonials/testi-thumb3.jpg" alt="Testi Thumb">
-                                    <div class="testi-des">
-                                        <h5>James V. Decastro</h5>
-                                        <span>Senior Marketer</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="testimonial-item">
-                                <p>Similique sunt in culpa qui officia deserunte At vero eos et accusamus et iusto odio dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dolores qua molestias excepturi sint occaecati cupiditate non provident</p>
-                                <div class="testi-author">
-                                    <img src="assets/images/testimonials/testi-thumb4.jpg" alt="Testi Thumb">
-                                    <div class="testi-des">
-                                        <h5>Michael A. Braun</h5>
-                                        <span>Apps Designer</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="testimonial-item">
-                                <p>At vero eos et accusamus et iusto odio dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dolores qua molestias excepturi sint occaecati cupiditate non provident similique sunt in culpa qui officia deserunte</p>
-                                <div class="testi-author">
-                                    <img src="assets/images/testimonials/testi-thumb3.jpg" alt="Testi Thumb">
-                                    <div class="testi-des">
-                                        <h5>Diane C. Valentine</h5>
-                                        <span>CEO & Founder</span>
-                                    </div>
-                                </div>
-                            </div>
+                          
+                           
                         </div>
                         <div class="testimonial-thums">
                             <div class="testi-thumb-item">

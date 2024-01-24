@@ -35,16 +35,17 @@
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
                                         <li><a href="contact.html">Anasayfa</a></li>
+                                        <li><a href="#">Odalar & Suitler</a></li>
 
-                                        <li class="dropdown"><a href="#">Odalar & Suitler</a>
+                                        <!-- <li class="dropdown"><a href="#">Odalar & Suitler</a>
                                             <ul>
                                                 <li><a href="room-grid.html">Room Grid</a></li>
                                                 <li><a href="room-2columns.html">Room 2 Column</a></li>
                                                 <li><a href="room-list.html">Room List</a></li>
                                                 <li><a href="room-details.html">Room Details</a></li>
                                             </ul>
-                                        </li>
-                                        <li><a href="dugunler-organizasyonlar.php">Düğünler ve Organizsayonlar</a></li>
+                                        </li> -->
+                                        <li><a href="wedding-events.php">Düğünler & Organizsayonlar</a></li>
                                         <!-- <li class="dropdown"><a href="#">Bar & Restaurant</a>
                                             <ul>
                                                 <li><a href="about.html">About us</a></li>
@@ -56,9 +57,9 @@
                                         <li><a href="#">Toplantılar</a>
                                         <li class="dropdown"><a href="#">Sosyal İmkanlar</a>
                                             <ul>
-                                                <li> <a href="">Restaurantlar</a></li>
-                                                <li> <a href="">Spa & Fitness</a></li>
-                                                <li> <a href="">Candy World</a></li>
+                                                <li> <a href="#">Restaurantlar</a></li>
+                                                <li> <a href="#">Spa & Fitness</a></li>
+                                                <li> <a href="#">Candy World</a></li>
 
                                             </ul>
                                         <!-- <li class="dropdown"><a href="">Başlık</a>
@@ -75,7 +76,7 @@
                                                 <li><a href="blog-details.html">blog details</a></li>
                                             </ul>
                                         </li> -->
-                                        <li><a href="contact.html">İletişim</a></li>
+                                        <li><a href="contact.php">İletişim</a></li>
                                     </ul>
                                 </div>
 
@@ -89,7 +90,7 @@
                         </div>
                         <!-- Menu Button -->
                         <div class="menu-btns">
-                            <a href="contact.html" class="theme-btn">Book Now <i class="far fa-angle-right"></i></a>
+                            <a href="contact.html" class="theme-btn">Randevu <i class="far fa-angle-right"></i></a>
 
 
                         </div>

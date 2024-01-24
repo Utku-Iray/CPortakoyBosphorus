@@ -9,46 +9,45 @@
                             </div>
                            
                             <div class="social-style-one pt-10">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="#"><i class="fab fa-behance"></i></a>
+                                <a href="https://www.facebook.com/people/Crowne-Plaza-Istanbul-Ortakoy-Bosphorus-an-IHG-Hotel/61550248446648/"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.linkedin.com/company/crowne-plaza-ortakoy-bosphorus/"><i class="fab fa-linkedin"></i></a>
+                                <a href="https://www.youtube.com/@CrownePlazaOrtakoyBosphorus"><i class="fab fa-youtube"></i></a>
+                                <a href="https://www.instagram.com/cportakoybosphorus/"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.tiktok.com/@crowneplazaortakoy"><i class="fab fa-tiktok"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-sm-6">
                         <div class="footer-widget widget_nav_menu wow fadeInUp delay-0-4s">
-                            <h4 class="footer-title">Quick Links</h4>
+                            <h4 class="footer-title">Hızlı Linkler</h4>
                             <ul class="list-style-one">
-                                <li><a href="about.html">About company</a></li>
-                                <li><a href="about.html">History</a></li>
-                                <li><a href="about.html">Team Member</a></li>
-                                <li><a href="blog.html">Latest News</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="#">Anasayfa</a></li>
+                                <li><a href="#">Odalar & Suitler</a></li>
+                                <li><a href="#">Düğünler</a></li>
+                                <li><a href="#">ORganizasyonlar</a></li>
+                                <li><a href="#">Toplantılar</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-xl-3 col-sm-6">
                         <div class="footer-widget widget_nav_menu wow fadeInUp delay-0-4s">
-                            <h4 class="footer-title">Features</h4>
+                            <h4 class="footer-title">Sosyal İmkanlar</h4>
                             <ul class="list-style-one">
-                                <li><a href="room-details.html">Free Transportation</a></li>
-                                <li><a href="room-details.html">GYM & Fitness Care</a></li>
-                                <li><a href="room-details.html">SPA Treatment</a></li>
-                                <li><a href="room-details.html">Food & Drinks</a></li>
-                                <li><a href="room-details.html">Breakfast</a></li>
+                                <li><a href="#">Restaurantlar</a></li>
+                                <li><a href="#">Spa</a></li>
+                                <li><a href="#">Fitness</a></li>
+                                <li><a href="#">Candy World</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-xl-3 col-sm-6">
                         <div class="footer-widget widget_nav_menu wow fadeInUp delay-0-4s">
-                            <h4 class="footer-title">Features</h4>
+                            <h4 class="footer-title">Otelimiz</h4>
                             <ul class="list-style-one">
-                                <li><a href="room-details.html">Free Transportation</a></li>
-                                <li><a href="room-details.html">GYM & Fitness Care</a></li>
-                                <li><a href="room-details.html">SPA Treatment</a></li>
-                                <li><a href="room-details.html">Food & Drinks</a></li>
-                                <li><a href="room-details.html">Breakfast</a></li>
+                                <li><a href="#">İletişim</a></li>
+                                <li><a href="#">Gizlilik ve Kişisel Veriler</a></li>
+                                <li><a href="#">Yasal Uyarı</a></li>
+                                <li><a href="#">Sürdürülebilirlik</a></li>
                             </ul>
                         </div>
                     </div>
@@ -59,15 +58,14 @@
                    <div class="row">
                        <div class="col-lg-6">
                             <div class="copyright-text">
-                                <p>© 2023 <a href="index.php">Qomfort.</a> All Rights Reserved.</p>
+                                <p>© 2023 <a href="index.php">Fikirbuzz</a> All Rights Reserved.</p>
                             </div>
                        </div>
                        <div class="col-lg-6 text-lg-end">
                            <ul class="footer-bottom-nav rpb-10">
-                               <li><a href="about.html">Terms</a></li>
-                               <li><a href="about.html">Privacy Policy</a></li>
-                               <li><a href="faqs.html">FAQs</a></li>
-                               <li><a href="about.html">Cookie Policy</a></li>
+                               <li><a href="#">Yasal Uyarı</a></li>
+                               <li><a href="#">Kişisel Verilerin Korunması</a></li>
+                               <li><a href="#">Sürdürülebilirlik</a></li>
                            </ul>
                        </div>
                    </div>

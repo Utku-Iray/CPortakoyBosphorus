@@ -43,6 +43,8 @@
     ## Team Area
     ## Main Footer */
 /* -------------------------------------------------------------- */
+@import url('https://fonts.cdnfonts.com/css/arial-2');
+@import url('https://fonts.cdnfonts.com/css/times-new-roman');
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,400&family=Roboto:wght@400;500&display=swap");
 /*******************************************************/
 /******************* ## Default Style *****************/
@@ -65,8 +67,8 @@ body {
   font-weight: 400;
   line-height: 32px;
   font-size: 16px;
-  font-family: "Roboto", sans-serif;
-  --base-color: #696969;
+  font-family: 'Times New Roman', sans-serif;;
+  --base-color: #464646;
   --heading-color: #0A0807;
   --primary-color: #970066;
   --lighter-color: #F4F2F1;
@@ -411,8 +413,8 @@ a.theme-btn {
       padding: 8px 25px; } }
   .theme-btn.style-two,
   a.theme-btn.style-two {
-    color: var(--base-color);
-    background: transparent;
+    color: white;
+    background: #970066;
     border: 1px solid rgba(41, 41, 41, 0.1); }
     .theme-btn.style-two:hover,
     a.theme-btn.style-two:hover {
@@ -852,7 +854,7 @@ a.theme-btn {
   color: var(--primary-color); }
 
 .bgc-black-with-lighting {
-  background: #1D1B1A; }
+  background: #000000; }
   .bgc-black-with-lighting:after, .bgc-black-with-lighting:before {
     position: absolute;
     width: 450px;
@@ -919,14 +921,14 @@ h5,
 h6,
 .h6,
 .accordion-item .accordion-button {
-  font-weight: 600;
+  font-weight: 500;
   color: var(--heading-color);
-  font-family: "Cormorant Garamond", serif; }
+  font-family: 'Times New Roman', sans-serif;; }
 
 h1, .h1 {
   line-height: 1.31;
   font-size: 65px;
-  font-weight: 700; }
+  font-weight:500; }
 
 h2, .h2 {
   line-height: 1.1;
@@ -938,7 +940,7 @@ h3, .h3 {
 
 h4, .h4 {
   line-height: 1.1;
-  font-size: 27px; }
+  font-size: 25px; }
 
 h5, .h5 {
   line-height: 1.4;
@@ -3866,7 +3868,7 @@ h6, .h6 {
     margin-bottom: 40px; }
     .slider-content h1 span {
       font-weight: 400;
-      font-style: italic; }
+       }
     @media only screen and (max-width: 767px) {
       .slider-content h1 {
         font-size: 55px; } }
@@ -4429,7 +4431,7 @@ h6, .h6 {
     font-size: 35px;
     position: relative;
     padding-bottom: 15px;
-    font-family: "Cormorant Garamond", serif; }
+    font-family: 'Times New Roman', sans-serif;; }
     @media only screen and (max-width: 375px) {
       .location-tab li a {
         font-size: 25px; } }
@@ -4637,7 +4639,7 @@ h6, .h6 {
     color: white;
     font-size: 20px;
     margin-bottom: 15px;
-    font-family: "Cormorant Garamond", serif; }
+    font-family: 'Times New Roman', sans-serif;; }
   .popular-clients img {
     width: 35px;
     height: 35px;
@@ -4743,7 +4745,7 @@ h6, .h6 {
     line-height: 1;
     font-size: 65px;
     padding: 10px 15px 20px;
-    font-family: "Cormorant Garamond", serif;
+    font-family: 'Times New Roman', sans-serif;;
     background: var(--primary-color); }
     .counter-item .count-text:after {
       content: '+'; }
@@ -4819,7 +4821,7 @@ h6, .h6 {
   margin-bottom: 25px;
   display: inline-block;
   color: var(--primary-color);
-  font-family: "Cormorant Garamond", serif; }
+  font-family: 'Times New Roman', sans-serif;; }
   @media only screen and (max-width: 575px) {
     .counter-item-two .count-text {
       width: 120px;
@@ -4874,7 +4876,7 @@ h6, .h6 {
   .room-item .theme-btn.style-two {
     width: 100%;
     border: none;
-    background: var(--lighter-color); }
+    background: #970066; }
   .room-item:hover .theme-btn.style-two {
     color: white;
     background: var(--primary-color); }
@@ -5073,7 +5075,7 @@ h6, .h6 {
     font-weight: 600;
     padding: 5px 20px;
     color: var(--base-color);
-    font-family: "Cormorant Garamond", serif;
+    font-family: 'Times New Roman', sans-serif;;
     background-color: transparent; }
     .room-tab li button:hover {
       color: var(--base-color); }
@@ -5365,11 +5367,11 @@ h6, .h6 {
       color: white;
       margin-bottom: 0;
       position: absolute;
-      padding: 16px 12px 5px;
+      padding: 10px 12px 0px;
       background: var(--primary-color);
       -webkit-box-pack: justify;
       -ms-flex-pack: justify;
-      justify-content: space-between; }
+      justify-content: center; }
       @media only screen and (max-width: 991px) {
         .blog-grid-item .image .blog-meta {
           left: 25px;
@@ -5583,7 +5585,7 @@ h6, .h6 {
   margin-right: 20px;
   color: white;
   padding: 5px 18px 8px;
-  font-family: "Cormorant Garamond", serif;
+  font-family: 'Times New Roman', sans-serif;;
   background: var(--primary-color); }
 
 blockquote {
@@ -5595,7 +5597,7 @@ blockquote {
   position: relative;
   padding-left: 150px;
   color: var(--heading-color);
-  font-family: "Cormorant Garamond", serif;
+  font-family: 'Times New Roman', sans-serif;;
   border-left: 5px solid var(--primary-color); }
   blockquote:before {
     content: "\f10d";
@@ -5863,7 +5865,7 @@ blockquote {
   line-height: 1.35;
   padding: 25px 30px;
   background: var(--primary-color);
-  font-family: "Cormorant Garamond", serif; }
+  font-family: 'Times New Roman', sans-serif;; }
   @media only screen and (max-width: 375px) {
     .video-play-text {
       padding: 15px 20px; } }
@@ -6215,7 +6217,7 @@ blockquote {
     font-weight: 600;
     margin-bottom: 15px;
     color: var(--heading-color);
-    font-family: "Cormorant Garamond", serif; }
+    font-family: 'Times New Roman', sans-serif;; }
   .widget-search-filter .form-group input,
   .widget-search-filter .form-group .nice-select {
     color: #CDCDCD;
@@ -6827,7 +6829,7 @@ blockquote {
     font-size: 65px;
     font-weight: 600;
     margin-bottom: 33px;
-    font-family: "Cormorant Garamond", serif; }
+    font-family: 'Times New Roman', sans-serif;; }
   .pricing-item .per-text {
     display: block;
     font-size: 18px;
@@ -6870,7 +6872,7 @@ blockquote {
   display: block;
   font-weight: 700;
   margin-bottom: -25px;
-  font-family: "Cormorant Garamond", serif; }
+  font-family: 'Times New Roman', sans-serif;; }
   @media only screen and (min-width: 480px) {
     .skillbar-title {
       font-size: 24px; } }
@@ -6889,7 +6891,7 @@ blockquote {
     bottom: 15px;
     font-weight: 700;
     background: var(--primary-color);
-    font-family: "Cormorant Garamond", serif; }
+    font-family: 'Times New Roman', sans-serif;; }
     @media only screen and (min-width: 480px) {
       .skillbar-bar .skill-bar-percent {
         font-size: 24px; } }
@@ -7371,7 +7373,7 @@ blockquote {
 .footer-widget {
   margin-bottom: 50px; }
   .footer-widget ul{
-padding: 0px 10px;
+padding: 12px 12px;
 background: rgba(0, 0, 0, 0.622);
 border: solid 1px white;
   }

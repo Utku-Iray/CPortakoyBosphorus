@@ -24,6 +24,24 @@
                 </div>
             </div>
         </div>
+        <div class="slider-item">
+            <div class="container">
+                <div class="row justify-content-end align-items-center">
+                    <div class="col-xl-3">
+                        <div class="slider-content">
+                            <span class="sub-title"><i class="fal fa-arrow-right"></i>Hoşgeldiniz</span>
+                            <h1>CROWNE PLAZA <span>ORTAKÖY BOSPHORUS</span></h1>
+                            <a href="#" class="theme-btn">Odalarımızı Keşfedin <i class="far fa-angle-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-8">
+                        <div class="slider-image">
+                            <img src="assets/images/slider/crowne-plaza-slider.jpg" alt="Slider">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     </div>
     <div class="container">

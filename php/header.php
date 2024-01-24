@@ -90,7 +90,7 @@
                         </div>
                         <!-- Menu Button -->
                         <div class="menu-btns">
-                            <a href="contact.html" class="theme-btn">Randevu <i class="far fa-angle-right"></i></a>
+                            <a href="https://www.ihg.com/crowneplaza/hotels/tr/tr/istanbul/istor/hoteldetail" class="theme-btn">Randevu <i class="far fa-angle-right"></i></a>
 
 
                         </div>

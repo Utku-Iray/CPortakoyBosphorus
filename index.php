@@ -89,7 +89,7 @@
                 <div class="about-content-part">
                     <div class="section-title mb-35 wow fadeInUp delay-0-2s">
                         <span class="sub-title mb-15">Crowne Plaza İstanbul Ortaköy Bosphorus</span>
-                        <h2>Ortaköyün Dokusu & İkonik Boğaz Köpürüsü</h2>
+                        <h2>Ortaköyün Dokusu & İkonik Boğaz Köprüsü</h2>
                         <p>Crowne Plaza İstanbul Ortaköy ironik boğaz manzarası ile Ortaköy'de unutulmaz bir konaklama deneyimi sunarken, misafirperverliği ve kaliteyi bir araya getirerek İstanbul'un eşsiz atmosferini sizlere sunmaktadır. Siz de bu benzersiz deneyimi yaşamak için bizi tercih edin, unutulmaz anılar biriktirin.</p>
                     </div>
                     <div class="feature-list wow fadeInUp delay-0-3s">

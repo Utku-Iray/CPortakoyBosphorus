@@ -34,7 +34,7 @@
 
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
-                                        <li><a href="contact.html">Anasayfa</a></li>
+                                        <li><a href="index.php">Anasayfa</a></li>
                                         <li><a href="#">Odalar & Suitler</a></li>
 
                                         <li class="dropdown"><a href="#">Organizsayon</a>
@@ -80,7 +80,7 @@
                                         </li>
                                         <li><a href="blog.php">Blog</a>
 
-                                        <!-- <li class="dropdown"><a href="#">Haberler</a>
+                                            <!-- <li class="dropdown"><a href="#">Haberler</a>
                                             <ul>
                                                 <li><a href="blog.html">blog Grid</a></li>
                                                 <li><a href="blog-details.html">blog details</a></li>

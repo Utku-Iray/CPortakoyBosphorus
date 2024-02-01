@@ -36,7 +36,7 @@
                         <div class="col-xl-10">
                             <div class="section-title mb-60">
                                 <span class="sub-title mb-15">İletişim</span>
-                                <h2>Bizim ile İletşime geçin</h2>
+                                <h2>Bizim ile iletişime geçin</h2>
                             </div>
                         </div>
                     </div>
@@ -62,19 +62,19 @@
                                         <a href="calto:+905309196456">+90 530 919 6456</a>
                                     </span>
                                 </div>
-                              
+
                             </div>
                             <div class="contact-info-item">
-                                    <div class="icon">
-                                        <i class="flaticon-email-marketing"></i>
-                                    </div>
-                                    <div class="content">
-                                        <span class="title">Email Address</span>
-                                        <span class="text">
-                                            <a href="infocportakoybosphorus.com">info@cportakoybosphorus.com</a>,
-                                        </span>
-                                    </div>
+                                <div class="icon">
+                                    <i class="flaticon-email-marketing"></i>
                                 </div>
+                                <div class="content">
+                                    <span class="title">Email Address</span>
+                                    <span class="text">
+                                        <a href="infocportakoybosphorus.com">info@cportakoybosphorus.com</a>,
+                                    </span>
+                                </div>
+                            </div>
                         </div>
 
                     </div>
@@ -84,7 +84,7 @@
                 <div class="contact-page-form wow fadeInUp delay-0-2s">
                     <div class="section-title mb-15">
                         <h3>Mesaj Gönder</h3>
-                        
+
                     </div>
                     <form id="contactForm" class="contactForm" action="assets/php/form-process.php" name="contactForm" method="post">
                         <div class="row gap-20 pt-15">
@@ -145,7 +145,7 @@
 <div class="contact-page-map pb-120 rpb-90 wow fadeInUp delay-0-2s">
     <div class="container-fluid">
         <div class="our-location">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2008.2142298039196!2d29.02583913713448!3d41.048845968784036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7c90dd0733f%3A0x8c9e4986f0e0e090!2sCrowne%20Plaza%20Istanbul%20-%20Ortakoy%20Bosphorus%2C%20an%20IHG%20Hotel!5e0!3m2!1str!2str!4v1706109442008!5m2!1str!2str" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2008.2142298039196!2d29.02583913713448!3d41.048845968784036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7c90dd0733f%3A0x8c9e4986f0e0e090!2sCrowne%20Plaza%20Istanbul%20-%20Ortakoy%20Bosphorus%2C%20an%20IHG%20Hotel!5e0!3m2!1str!2str!4v1706109442008!5m2!1str!2str" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
 </div>

@@ -35,9 +35,16 @@
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
                                         <li><a href="index.php">Anasayfa</a></li>
-                                        <li><a href="#">Odalar & Suitler</a></li>
-
-                                        <li class="dropdown"><a href="#">Organizsayon</a>
+                                        <li class="dropdown"><a href="#">Odalar & Suitler</a>
+                                            <ul>
+                                                <li><a href="standart-oda.php">Standart Oda</a></li>
+                                                <li><a href="#">Premium Oda</a></li>
+                                                <li><a href="#">Junior Suite</a></li>
+                                                <li><a href="#">Bridge Suit</a></li>
+                                                <!-- <li><a href="#">Aceesible</a></li> -->
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown"><a href="#">Düğün & Nişan</a>
                                             <ul>
                                                 <li><a href="istanbul-ortakoy-dugun.php">Düğün</a></li>
                                                 <li><a href="#">Nişan</a></li>
@@ -65,9 +72,13 @@
                                         </li> -->
                                         <li class="dropdown"><a href="#">Sosyal İmkanlar</a>
                                             <ul>
-                                                <li> <a href="#">Restaurantlar</a></li>
+                                                <li> <a href="nite-restaurant.php">Nite Restaurant</a></li>
+                                                <li> <a href="#">Vistorante Restaurant</a></li>
                                                 <li> <a href="#">Spa & Fitness</a></li>
-                                                <li> <a href="#">Candy World</a></li>
+                                                <li> <a href="#">Sanitas Spa & Hamam</a>
+                                                <li> <a href="#">Şekerci Cafer Erol</a></li>
+                                                <li> <a href="#">Cafe Nero</a></li>
+                                                <li> <a href="#">Guess</a></li>
 
                                             </ul>
                                             <!-- <li class="dropdown"><a href="">Başlık</a>

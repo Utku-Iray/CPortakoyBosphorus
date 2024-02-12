@@ -13,7 +13,7 @@
                         <div class="slider-content">
                             <span class="sub-title"><i class="fal fa-arrow-right"></i>Crowne Plaza</span>
                             <h1>İstanbul<span> Ortaköy Bosphorus</span></h1>
-                            <a href="#" class="theme-btn">Keşfet <i class="far fa-angle-right"></i></a>
+                            <a href="premium-oda.php" class="theme-btn">Keşfet <i class="far fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="col-xl-8">
@@ -31,12 +31,30 @@
                         <div class="slider-content">
                             <span class="sub-title"><i class="fal fa-arrow-right"></i>Crowne Plaza</span>
                             <h1>İkonik <span>Boğaz Köprüsü Manzarası</span></h1>
-                            <a href="#" class="theme-btn">Odalarımızı Keşfedin <i class="far fa-angle-right"></i></a>
+                            <a href="#odalarimiz" class="theme-btn">Odalarımızı Keşfedin <i class="far fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="col-xl-8">
                         <div class="slider-image">
                             <img src="assets/images/slider/crowne-plaza-slider.jpg" alt="Slider">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="slider-item">
+            <div class="container">
+                <div class="row justify-content-end align-items-center">
+                    <div class="col-xl-3">
+                        <div class="slider-content">
+                            <span class="sub-title"><i class="fal fa-arrow-right"></i>Crowne Plaza</span>
+                            <h1>Aşk, Tutku<span> ve Detaylar...</span></h1>
+                            <a href="istanbul-ortakoy-dugun.php" class="theme-btn">Düğün Hakkında Bilgi Al <i class="far fa-angle-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-8">
+                        <div class="slider-image">
+                            <img src="assets/images/dugun.jpg" alt="Slider">
                         </div>
                     </div>
                 </div>
@@ -89,7 +107,7 @@
                 <div class="about-content-part">
                     <div class="section-title mb-35 wow fadeInUp delay-0-2s">
                         <span class="sub-title mb-15">Crowne Plaza İstanbul Ortaköy Bosphorus</span>
-                        <h2>Ortaköyün Dokusu & İkonik Boğaz Köprüsü</h2>
+                        <h2>Ortaköy'ün Dokusu & İkonik Boğaz Köprüsü</h2>
                         <p>Crowne Plaza İstanbul Ortaköy ironik boğaz manzarası ile Ortaköy'de unutulmaz bir konaklama deneyimi sunarken, misafirperverliği ve kaliteyi bir araya getirerek İstanbul'un eşsiz atmosferini sizlere sunmaktadır. Siz de bu benzersiz deneyimi yaşamak için bizi tercih edin, unutulmaz anılar biriktirin.</p>
                     </div>
                     <div class="feature-list wow fadeInUp delay-0-3s">
@@ -139,7 +157,7 @@
                 </div>
             </div>
             <div class="col-lg-4 text-lg-end">
-                <a class="theme-btn mb-40 wow fadeInRight delay-0-2s" href="#">Odaları İncele <i class="fal fa-angle-right"></i></a>
+                <!-- <a class="theme-btn mb-40 wow fadeInRight delay-0-2s" href="#">Odaları İncele <i class="fal fa-angle-right"></i></a> -->
             </div>
         </div>
         <div class="row">
@@ -147,44 +165,44 @@
                 <div class="room-item wow fadeInUp delay-0-2s">
                     <div class="image">
                         <img src="assets/images/dugun-salonu.jpg" alt="Room">
-                        <a class="category" href="#">Düğün & Nişan & Kına</a>
+                        <a class="category" href="istanbul-ortakoy-dugun.php">Düğün & Nişan & Kına</a>
                     </div>
                     <div class="content">
-                        <h4><a href="#s">Ortaköy'de, muhteşem düğünler</a></h4>
-                      
+                        <h4><a href="istanbul-ortakoy-dugun.php">Ortaköy'de, muhteşem düğünler</a></h4>
+
                         <p>Lüks ve konforun mükemmel bir buluşma noktası olarak tasarlanan odalarımız, rahatlığı zirveye taşıyor.</p>
                         <!-- <div class="price">Price <span>$59</span>/per night</div> -->
                     </div>
-                    <a class="theme-btn style-two" href="#">Daha Fazlası <i class="fal fa-angle-right"></i></a>
+                    <a class="theme-btn style-two" href="istanbul-ortakoy-dugun.php">Daha Fazlası <i class="fal fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="col-xl-4 col-md-6">
                 <div class="room-item wow fadeInUp delay-0-4s">
                     <div class="image">
                         <img src="assets/images/toplanti-anasayfa.jpg" alt="Room">
-                        <a class="category" href="#">Toplantı</a>
+                        <a class="category" href="istanbul-ortakoy-toplanti.php">Toplantı</a>
                     </div>
                     <div class="content">
-                        <h4><a href="#">Kurumlara özel toplantı salonları</a></h4>
-                        
+                        <h4><a href="istanbul-ortakoy-toplanti.php">Kurumlara özel toplantı salonları</a></h4>
+
                         <p>Modern dekorasyonu ve şık atmosferiyle odalarımız, konuklarımıza unutulmaz bir konaklama vadediyor.</p>
                         <!-- <div class="price">Price <span>$53</span>/per night</div> -->
                     </div>
-                    <a class="theme-btn style-two" href="#">Daha Fazlası <i class="fal fa-angle-right"></i></a>
+                    <a class="theme-btn style-two" href="istanbul-ortakoy-toplanti.php">Daha Fazlası <i class="fal fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="col-xl-4 col-md-6">
                 <div class="room-item wow fadeInUp delay-0-6s">
                     <div class="image">
                         <img src="assets/images/ozel-etkinlik.jpg" alt="Room">
-                        <a class="category" href="#">Özel Etkinlik</a>
+                        <a class="category" href="istanbul-ortakoy-etkinlik.php">Özel Etkinlik</a>
                     </div>
                     <div class="content">
-                        <h4><a href="#">Boğaz eşliğinde etkinlikler</a></h4>
-                       
+                        <h4><a href="istanbul-ortakoy-etkinlik.php">Boğaz eşliğinde etkinlikler</a></h4>
+
                         <p>Her ayrıntısı özenle düşünülmüş geniş odalarımız, zarif mobilyalar ve özel tasarımlarla donatılmıştır.</p>
                     </div>
-                    <a class="theme-btn style-two" href="#">Daha Fazlası <i class="fal fa-angle-right"></i></a>
+                    <a class="theme-btn style-two" href="istanbul-ortakoy-etkinlik.php">Daha Fazlası <i class="fal fa-angle-right"></i></a>
                 </div>
             </div>
         </div>
@@ -256,7 +274,7 @@
                             <img src="assets/images/icons/spa-icon.png" alt="Sanita Spa">
                         </div>
                         <div class="content">
-                            <h4><a href="#">Sanita SPA</a></h4>
+                            <h4><a href="#">Sanitas SPA</a></h4>
                             <p>Otelimizin şık SPA'sı, özel terapiler ve modern olanaklarla Crowner’lara eşsiz bir rahatlama fırsatı sunuyor.</p>
                         </div>
                     </div>
@@ -278,8 +296,8 @@
                             <img src="assets/images/icons/vistorante.png" alt="">
                         </div>
                         <div class="content">
-                            <h4><a href="#">Vistorante</a></h4>
-                            <p>Vistorante Restoran, zengin menüsü ve şık dekorasyonuyla Crownerları enfes bir yemek serüvenine davet ediyor.</p>
+                            <h4><a href="#">Visorante</a></h4>
+                            <p>Visorante Restoran, zengin menüsü ve şık dekorasyonuyla Crownerları enfes bir yemek serüvenine davet ediyor.</p>
                         </div>
                     </div>
                 </div>
@@ -300,8 +318,8 @@
                             <img src="assets/images/icons/canyd-world.png" alt="Candy World">
                         </div>
                         <div class="content">
-                            <h4><a href="#">Candy World </a></h4>
-                            <p>Candy World, renkli atmosferi ve çeşitli tatlarıyla Crowner’ları çikolata ve şekerleme dünyasında eğlenceli bir yolculuğa davet ediyor.</p>
+                            <h4><a href="#">Şekerci Cafer Erol </a></h4>
+                            <p>Şekerci Cafer Erol, renkli atmosferi ve çeşitli tatlarıyla Crowner’ları çikolata ve şekerleme dünyasında eğlenceli bir yolculuğa davet ediyor.</p>
                         </div>
                     </div>
                 </div>
@@ -325,7 +343,7 @@
 
 
 <!-- Hotel Area start -->
-<section class="hotel-area py-130 rpy-100 rel z-1">
+<section class="hotel-area py-130 rpy-100 rel z-1" id="odalarimiz">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8 col-md-10">
@@ -338,13 +356,13 @@
             <div class="hotel-item wow fadeInUp delay-0-2s">
                 <div class="content">
                     <div class="top">
-                        <h3><a href="#">Premium King</a></h3>
+                        <h3><a href="standart-oda.php">Standart Oda</a></h3>
                         <p>Lüks ve konforun mükemmel bir buluşma noktası olarak tasarlanan odalarımız, rahatlığı zirveye taşıyor.</p>
                     </div>
 
                     <div class="bottom">
                         <!-- <div class="price">From <span>$185</span>/per night</div> -->
-                        <a class="theme-btn style-two" href="#">Detaylar <i class="fal fa-angle-right"></i></a>
+                        <a class="theme-btn style-two" href="standart-oda.php">Detaylar <i class="fal fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="image">
@@ -354,12 +372,12 @@
             <div class="hotel-item wow fadeInUp delay-0-4s">
                 <div class="content">
                     <div class="top">
-                        <h3><a href="#">Std Quen</a></h3>
+                        <h3><a href="premium-oda.php">Premium Oda</a></h3>
                         <p>Her ayrıntısı özenle düşünülmüş geniş odalarımız, zarif mobilyalar ve özel tasarımlarla donatılmıştır.</p>
                     </div>
 
                     <div class="bottom">
-                        <a class="theme-btn style-two" href="#">Details <i class="fal fa-angle-right"></i></a>
+                        <a class="theme-btn style-two" href="premium-oda.php">Detaylar <i class="fal fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="image">
@@ -369,12 +387,12 @@
             <div class="hotel-item wow fadeInUp delay-0-4s">
                 <div class="content">
                     <div class="top">
-                        <h3><a href="#">Std King</a></h3>
+                        <h3><a href="king-junior-suite-sofa-bed.php">Junior Suite</a></h3>
                         <p>Yüksek standartlardaki konfor ve lüks detaylarıyla döşenmiş odalarımız, unutulmaz bir konaklama sunar.</p>
                     </div>
 
                     <div class="bottom">
-                        <a class="theme-btn style-two" href="#">Details <i class="fal fa-angle-right"></i></a>
+                        <a class="theme-btn style-two" href="king-junior-suite-sofa-bed.php">Detaylar <i class="fal fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="image">
@@ -384,33 +402,19 @@
             <div class="hotel-item wow fadeInUp delay-0-4s">
                 <div class="content">
                     <div class="top">
-                        <h3><a href="#">Std King Bridge</a></h3>
+                        <h3><a href="accesible.php">Bridge Suite</a></h3>
                         <p>Her ayrıntısı özenle düşünülmüş geniş odalarımız, zarif mobilyalar ve özel tasarımlarla donatılmıştır.</p>
                     </div>
 
                     <div class="bottom">
-                        <a class="theme-btn style-two" href="#">Details <i class="fal fa-angle-right"></i></a>
+                        <a class="theme-btn style-two" href="accesible.php">Detaylar <i class="fal fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="image">
                     <img src="assets/images/rooms/std-king-bridge.png" alt="Hotel">
                 </div>
             </div>
-            <div class="hotel-item wow fadeInUp delay-0-4s">
-                <div class="content">
-                    <div class="top">
-                        <h3><a href="#">Premier Twin</a></h3>
-                        <p>Modern dekorasyonu ve şık atmosferiyle odalarımız, konuklarımıza unutulmaz bir konaklama vadediyor.</p>
-                    </div>
 
-                    <div class="bottom">
-                        <a class="theme-btn style-two" href="#">Details <i class="fal fa-angle-right"></i></a>
-                    </div>
-                </div>
-                <div class="image">
-                    <img src="assets/images/rooms/oda1.png" alt="Hotel">
-                </div>
-            </div>
         </div>
     </div>
     <div class="bg-lines for-bg-white">
@@ -560,8 +564,8 @@
                                     </div>
                                 </div>
                             </div>
-                          
-                           
+
+
                         </div>
                         <div class="testimonial-thums">
                             <div class="testi-thumb-item">
@@ -694,10 +698,10 @@
     <div class="instagram-item wow fadeInUp delay-0-4s">
         <div class="content text-white">
             <div class="icon"><i class="fab fa-instagram"></i></div>
-            <h2><a href="https://www.instagram.com">Bizi İnstagram'dan Takip Edin!</a></h2>
+            <h2><a href="https://www.instagram.com">Bizi Instagram'dan Takip Edin!</a></h2>
             <hr>
             <div class="call-text">Telefon</div>
-            <a class="h2" href="tell:+905309196456">+90 530 919 6456</a>
+            <a class="h2" href="tell:02127052535">(0212) 705 25 35</a>
         </div>
     </div>
     <div class="instagram-item wow fadeInUp delay-0-5s">

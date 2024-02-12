@@ -21,29 +21,14 @@
     <div class="container">
         <div class="row gap-90">
             <div class="col-lg-6">
-                <div class="product-details-images wow fadeInLeft delay-0-2s">
+                <div class="product-details-images wow fadeInLeft delay-0-2s mt-100">
                     <div class="tab-content preview-images">
                         <div class="tab-pane fade preview-item active show" id="preview1">
-                            <img src="assets/images/shop/preview1.jpg" alt="Perview">
+                            <img src="assets/images/sosyal-imkanlar/nite/nite.jpg" alt="Perview">
                         </div>
-                        <div class="tab-pane fade preview-item" id="preview2">
-                            <img src="assets/images/shop/preview1.jpg" alt="Perview">
-                        </div>
-                        <div class="tab-pane fade preview-item" id="preview3">
-                            <img src="assets/images/shop/preview1.jpg" alt="Perview">
-                        </div>
+
                     </div>
-                    <div class="nav thumb-images rmb-20">
-                        <a href="#preview1" data-bs-toggle="tab" class="thumb-item active show">
-                            <img src="assets/images/shop/thumb1.jpg" alt="Thumb">
-                        </a>
-                        <a href="#preview2" data-bs-toggle="tab" class="thumb-item">
-                            <img src="assets/images/shop/thumb2.jpg" alt="Thumb">
-                        </a>
-                        <a href="#preview3" data-bs-toggle="tab" class="thumb-item">
-                            <img src="assets/images/shop/thumb3.jpg" alt="Thumb">
-                        </a>
-                    </div>
+
                 </div>
             </div>
             <div class="col-lg-6">
@@ -58,14 +43,18 @@
                         </div>
                     </div>
                     <div class="section-title">
-                        <h2>Nite Restaurant</h2>
+                        <h2>İstanbul Boğazı’nın ihtişamında bir lezzet ışıltısı…</h2>
+                        <b>Gün geceye dönerken İstanbul Boğazı’nın ihtişamında bir lezzet ve eğlence klasiği,
+                            Boğazın parlayan incisi Nite…<br><br>
+                        </b>
                     </div>
                     <p>Kaliteli çizgisi, minimal dekorasyonu ve şık konseptiyle fine dining bir hizmet sunan Nite; Asya, İtalyan, Fransız ve Türk mutfağından en özel lezzetleri sağlıklı ve özgün dokunuşlarla sunuyor.
-                        <br><br>
+                        <br>
+                        <br>
                         Büyüleyici İstanbul siluetine nazır lezzetin ve eğlencenin adresi Nite, panoramik boğaz manzarasıyla göze hitap ederken, eşsiz lezzetleriyle damakları şenlendiriyor. Nite, mekâna ihtişam ve zarif bir görüntü katan özel tasarım barı, imza kokteylleri, muhteşem müzikleri ve ayrıcalıklı hizmet anlayışıyla İstanbul’un yeni nesil eğlence klasiği olarak da adından söz ettiriyor.
-                        <br><br>
-
+                        <br> <br>
                         Otel misafirleri için zengin bir Türk kahvaltısı hizmeti veren Nite, akşam yemeklerinde mevsimselliği ön planda tutarak hazırlanan menüsüyle Türk mutfağının geleneksel tatlarını dünya mutfağıyla buluşturarak en özgün tatları ve pişirme tekniklerini lezzetseverlerin beğenisini sunuyor. Mezeler, soğuk-sıcak başlangıçlar, salatalar, garnitürler, zengin kırmızı et, beyaz et, deniz mahsulleri, spesiyal kokteylleri ve enfes tatlılarıyla göze ve damağa hitap eden Nite, misafirlerine tam bir gastronomi deneyimi yaşatıyor.
+
                     </p>
 
 
@@ -99,10 +88,10 @@
     <div class="instagram-item wow fadeInUp delay-0-4s">
         <div class="content text-white">
             <div class="icon"><i class="fab fa-instagram"></i></div>
-            <h2><a href="https://www.instagram.com">Bizi İnstagram'dan Takip Edin!</a></h2>
+            <h2><a href="https://www.instagram.com">Bizi Instagram'dan Takip Edin!</a></h2>
             <hr>
             <div class="call-text">Telefon</div>
-            <a class="h2" href="tell:+905309196456">+90 530 919 6456</a>
+            <a class="h2" href="tell:02127052535">(0212) 705 25 35</a>
         </div>
     </div>
     <div class="instagram-item wow fadeInUp delay-0-5s">

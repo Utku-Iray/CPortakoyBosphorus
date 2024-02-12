@@ -65,7 +65,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="main-sidebar rmt-65">
-                 
+
                     <div class="widget widget-recent-news wow fadeInUp delay-0-2s">
                         <h4 class="widget-title">Blog</h4>
                         <ul>
@@ -116,8 +116,8 @@
                             </li>
                         </ul>
                     </div>
-                    
-                    
+
+
                 </div>
             </div>
         </div>
@@ -148,10 +148,10 @@
     <div class="instagram-item wow fadeInUp delay-0-4s">
         <div class="content text-white">
             <div class="icon"><i class="fab fa-instagram"></i></div>
-            <h2><a href="https://www.instagram.com">Bizi İnstagram'dan Takip Edin!</a></h2>
+            <h2><a href="https://www.instagram.com">Bizi Instagram'dan Takip Edin!</a></h2>
             <hr>
             <div class="call-text">Telefon</div>
-            <a class="h2" href="tell:+905309196456">+90 530 919 6456</a>
+            <a class="h2" href="tell:02127052535">(0212) 705 25 35</a>
         </div>
     </div>
     <div class="instagram-item wow fadeInUp delay-0-5s">

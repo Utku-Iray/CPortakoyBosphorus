@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Title -->
-    <title>Crowne PLaza | İstanbul Ortaköy Bosphorus</title>
+    <title>İstanbul Ortaköy Bosphorus | Crowne Plaza İstanbul Ortaköy Bosphorus</title>
     <!-- Favicon Icon -->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-    
+
     <!-- Flaticon -->
     <link rel="stylesheet" href="assets/css/flaticon.min.css">
     <!-- Font Awesome -->
@@ -28,5 +28,5 @@
     <link rel="stylesheet" href="assets/css/slick.min.css">
     <!-- Main Style -->
     <link rel="stylesheet" href="assets/css/style.css">
-    
+
 </head>

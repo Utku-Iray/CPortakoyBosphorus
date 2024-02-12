@@ -256,7 +256,70 @@
     </div>
 </section>
 <!-- Services Area end -->
+<section class="rooms-area pt-50 rpt-100 pb-100 rpb-70 rel z-2">
+    <div class="container">
 
+        <div class="row">
+            <div class="col-xl-3 col-md-6">
+                <div class="room-item wow fadeInUp delay-0-2s">
+                    <div class="image">
+                        <img src="assets/images/ortakoy-balo-salonu.jpg" alt="Room">
+                        <a class="category" href="#">Bosphorus Balo Salonu</a>
+                    </div>
+                    <div class="content">
+
+                        <p>Bosphorus Balo Salonu'yla hayallerinizdeki etkinlikleri gerçeğe dönüştürüyoruz. Hem sizin ve hem de misafirleriniz için her detayı özenle planlıyor, size yıllar geçse de unutamayacağınız anılar biriktirmenizi sağlıyoruz.</p>
+                        <!-- <div class="price">Price <span>$59</span>/per night</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6">
+                <div class="room-item wow fadeInUp delay-0-4s">
+                    <div class="image">
+                        <img src="assets/images/crowne-plaza-siyah.jpg" alt="Room">
+                        <a class="category" href="#">Bridge Garden Terrace</a>
+                    </div>
+                    <div class="content">
+
+                        <p>Bridge Garden Terasımızda, en güzel etkinliklerinizi muhteşem İstanbul silueti eşliğinde gerçeğe dönüştürüyoruz. Sizin ve misafirleriniz için her detayı özenle planlıyor, size yıllar geçse de unutamayacağınız anılar biriktirmenizi sağlıyoruz.</p>
+                        <!-- <div class="price">Price <span>$53</span>/per night</div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6">
+                <div class="room-item wow fadeInUp delay-0-6s">
+                    <div class="image">
+                        <img src="assets/images/ortakoy-toplanti-salonu.jpg" alt="Room">
+                        <a class="category" href="#">Ortaköy Toplantı Odası</a>
+                    </div>
+                    <div class="content">
+
+                        <p>Ortaköy Toplantı Odamızda şirket toplantılarınızı bir üst seviyeye taşıyor, her açıdan verim alabileceğiniz detaylar sunuyoruz. Salonumuzun konforlu, modern ve teknik dekorasyonuyla iş dünyasının nabzını yeniden yaratıyoruz.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-md-6">
+                <div class="room-item wow fadeInUp delay-0-6s">
+                    <div class="image">
+                        <img src="assets/images/crowne-plaza-siyah.jpg" alt="Room">
+                        <a class="category" href="#">Fuaye Alanı</a>
+                    </div>
+                    <div class="content">
+
+                        <p>Fuaye Alanımızda, hayallerinizdeki etkinlikleri gerçeğe dönüştürüyoruz. Hem sizin ve hem de misafirleriniz için her detayı özenle planlıyor, size yıllar geçse de unutamayacağınız anılar biriktirmenizi sağlıyoruz.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bg-lines for-bg-white">
+        <span></span><span></span>
+        <span></span><span></span>
+        <span></span><span></span>
+        <span></span><span></span>
+        <span></span><span></span>
+    </div>
+</section>
 
 <!-- Testimonials Area start -->
 <section class="testimonials-area-two py-130 rpy-100 mb-130 rmb-100">
@@ -268,7 +331,7 @@
                         <div class="testi-speech">
                             Gerçek aşk, en güzel düğünlerde kusursuz bir dansa dönüşür; düğün organizasyonu ise bu dansın notalarını düzenler, romantizmi ölümsüz kılar
                         </div>
-                       <a href="contact.php"> <button type="submit" class="theme-btn">Bilgi Al<i class="far fa-arrow-right"></i></button></a>
+                        <a href="iletisim.php"> <button type="submit" class="theme-btn">Bilgi Al<i class="far fa-arrow-right"></i></button></a>
                     </div>
 
                 </div>
@@ -307,10 +370,10 @@
     <div class="instagram-item wow fadeInUp delay-0-4s">
         <div class="content text-white">
             <div class="icon"><i class="fab fa-instagram"></i></div>
-            <h2><a href="https://www.instagram.com">Bizi İnstagram'dan Takip Edin!</a></h2>
+            <h2><a href="https://www.instagram.com">Bizi Instagram'dan Takip Edin!</a></h2>
             <hr>
             <div class="call-text">Telefon</div>
-            <a class="h2" href="tell:+905309196456">+90 530 919 6456</a>
+            <a class="h2" href="tell:02127052535">(0212) 705 25 35</a>
         </div>
     </div>
     <div class="instagram-item wow fadeInUp delay-0-5s">

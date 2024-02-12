@@ -30,11 +30,11 @@
             <div class="col-xl-4 col-md-6">
                 <div class="room-item style-two wow fadeInUp delay-0-2s">
                     <div class="image">
-                        <img src="assets/images/rooms/room1.jpg" alt="Room">
-                        <a class="category" href="oda-detay.php">Standart</a>
+                        <img src="assets/images/odalar/standart-oda/king-standart/std-king-1.jpg" alt="Room">
+                        <a class="category" href="king-standart.php">Standart</a>
                     </div>
                     <div class="content">
-                        <h4><a href="oda-detay.php">King Standart </a></h4>
+                        <h4><a href="king-standart.php">King Standart </a></h4>
                         <ul class="blog-meta">
                             <li>
                                 <i class="far fa-bed-alt"></i>
@@ -42,19 +42,19 @@
                             </li>
                             <li>
                                 <i class="far fa-drafting-compass"></i>
-                                <a href="#">Alan : 35 M2</a>
+                                <a href="#">Alan : 24m2</a>
                             </li>
                         </ul>
                         <p>Lüks ve konforun mükemmel bir buluşma noktası olarak tasarlanan odalarımız, rahatlığı zirveye taşıyor.</p>
                     </div>
-                    <a class="theme-btn" href="oda-detay.php">Book Now <i class="fal fa-angle-right"></i></a>
+                    <a class="theme-btn" href="king-standart.php">Detaylar <i class="fal fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="col-xl-4 col-md-6">
                 <div class="room-item style-two wow fadeInUp delay-0-4s">
                     <div class="image">
-                        <img src="assets/images/rooms/room2.jpg" alt="Room">
-                        <a class="category" href="oda-detay.php">Standart</a>
+                        <img src="assets/images/odalar/standart-oda/queen-standart/std-queen-1.jpg" alt="Room">
+                        <a class="category" href="std-queen.php">Standart</a>
                     </div>
                     <div class="content">
                         <h4><a href="room-detay.php">Queen Standart </a></h4>
@@ -65,35 +65,35 @@
                             </li>
                             <li>
                                 <i class="far fa-drafting-compass"></i>
-                                <a href="#">Alan : 35 M2</a>
+                                <a href="#">Alan : 24m2</a>
                             </li>
                         </ul>
                         <p>Lüks ve konforun mükemmel bir buluşma noktası olarak tasarlanan odalarımız, rahatlığı zirveye taşıyor.</p>
                     </div>
-                    <a class="theme-btn" href="oda-detay.php">Book Now <i class="fal fa-angle-right"></i></a>
+                    <a class="theme-btn" href="std-queen.php">Detaylar <i class="fal fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="col-xl-4 col-md-6">
                 <div class="room-item style-two wow fadeInUp delay-0-6s">
                     <div class="image">
-                        <img src="assets/images/rooms/room3.jpg" alt="Room">
-                        <a class="category" href="oda-detay.php">Standart</a>
+                        <img src="assets/images/odalar/standart-oda/king-standart-bridge/std-king-bridge-1.jpg" alt="Room">
+                        <a class="category" href="king-standart-bridge.php">Standart</a>
                     </div>
                     <div class="content">
-                        <h4><a href="oda-detay.php">King Standart Bridge View</a></h4>
+                        <h4><a href="std-king-bridge.php">King Standart Bridge View</a></h4>
                         <ul class="blog-meta">
                             <li>
                                 <i class="far fa-bed-alt"></i>
-                                <a href="#">Adults : 5</a>
+                                <a href="#">Adults : 2</a>
                             </li>
                             <li>
                                 <i class="far fa-drafting-compass"></i>
-                                <a href="#">Size : 59ft</a>
+                                <a href="#">Size : 24m2</a>
                             </li>
                         </ul>
                         <p>Lüks ve konforun mükemmel bir buluşma noktası olarak tasarlanan odalarımız, rahatlığı zirveye taşıyor.</p>
                     </div>
-                    <a class="theme-btn" href="oda-detay.php">Book Now <i class="fal fa-angle-right"></i></a>
+                    <a class="theme-btn" href="std-king-bridge.php">Detaylar <i class="fal fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -126,10 +126,10 @@
     <div class="instagram-item wow fadeInUp delay-0-4s">
         <div class="content text-white">
             <div class="icon"><i class="fab fa-instagram"></i></div>
-            <h2><a href="https://www.instagram.com">Bizi İnstagram'dan Takip Edin!</a></h2>
+            <h2><a href="https://www.instagram.com">Bizi Instagram'dan Takip Edin!</a></h2>
             <hr>
             <div class="call-text">Telefon</div>
-            <a class="h2" href="tell:+905309196456">+90 530 919 6456</a>
+            <a class="h2" href="tell:02127052535">(0212) 705 25 35</a>
         </div>
     </div>
     <div class="instagram-item wow fadeInUp delay-0-5s">
